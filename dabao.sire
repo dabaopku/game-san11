@@ -172,10 +172,10 @@
   <DevelopLimit enable="false"></DevelopLimit>
   <CombineForbidden enable="true"></CombineForbidden>
   <DirectBuild enable="true"></DirectBuild>
-  <BigMarketMul enable="false"></BigMarketMul>
-  <AllEcoMul enable="false"></AllEcoMul>
-  <ArmyStoreMul enable="false"></ArmyStoreMul>
-  <AllAgrMul enable="false"></AllAgrMul>
+  <BigMarketMul enable="true"></BigMarketMul>
+  <AllEcoMul enable="true"></AllEcoMul>
+  <ArmyStoreMul enable="true"></ArmyStoreMul>
+  <AllAgrMul enable="true"></AllAgrMul>
   <SoldLimit enable="false">50000</SoldLimit>
   <BarracksProduce enable="false" BigCity="100" NormalCity="100"></BarracksProduce>
   <SmithProduce enable="false" Spec="100" NonSpec="100"></SmithProduce>
