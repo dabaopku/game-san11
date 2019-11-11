@@ -38,7 +38,7 @@
   <WideEat enable="false">1000</WideEat>
   <HorseEat enable="false"></HorseEat>
   <SameEat enable="false"></SameEat>
-  <MoraleLimit enable="true" SLBN="200" SLBY="300"></MoraleLimit>
+  <MoraleLimit enable="true" SLBN="200" SLBY="250"></MoraleLimit>
   <BaseHits enable="false" Atk0="70" Atk1="70" Atk2="60" Atk3="70" Atk4="70" Atk5="65" Atk6="75" Atk7="70" Atk8="65" Atk9="70" Atk10="65" Atk11="60" Atk12="100" Atk13="100" Atk14="100" Atk15="100" Atk16="100" Atk17="65" Atk18="100"></BaseHits>
   <HitsLowerLmt enable="false">0</HitsLowerLmt>
   <HitsUpperLmt enable="false">100</HitsUpperLmt>
