@@ -24,8 +24,8 @@
   <TRLimit enable="false">500000</TRLimit>
   <ArmyAtk use="0" PoWL="100" PoTS="0" Threshold="5000"></ArmyAtk>
   <ArmyDef use="0" PoWL="0" PoTS="100" Threshold="5000"></ArmyDef>
-  <MoralePlusA enable="false" Threshold="100">50</MoralePlusA>
-  <MoralePlusD enable="false" Threshold="100">50</MoralePlusD>
+  <MoralePlusA enable="true" Threshold="50">50</MoralePlusA>
+  <MoralePlusD enable="true" Threshold="50">50</MoralePlusD>
   <ArmyBuild enable="false" PoZZ="67" Plus="50"></ArmyBuild>
   <TransitBuildNoDis enable="false"></TransitBuildNoDis>
   <TransitBaseMov enable="false">16</TransitBaseMov>
@@ -83,7 +83,7 @@
   <QLevel2Chaos enable="false" base="15" burst="100"></QLevel2Chaos>
   <ShotPrecision enable="false"></ShotPrecision>
   <SameSpread enable="false"></SameSpread>
-  <DistancePlus enable="false">5</DistancePlus>
+  <DistancePlus enable="true">5</DistancePlus>
   <StraHitsLL enable="false">1</StraHitsLL>
   <StraHitsUL enable="false">99</StraHitsUL>
   <StraHitsToEx enable="false">10</StraHitsToEx>
@@ -430,14 +430,14 @@
     <Skill149 prop0="武干" prop1="令未达到统率光环要求的主帅获得基础统率光环，否则光环范围加１格" prop2="补助" prop3="4" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="OOOOOO"></Skill149>
     
   </UseNewSkill>
-  <RealRandom enable="false"></RealRandom>
+  <RealRandom enable="true"></RealRandom>
   <ShowRate enable="true"></ShowRate>
   <PerfectRate enable="true"></PerfectRate>
   <DTCapture enable="false">80</DTCapture>
   <DTDeath enable="false" High="5" Medium="2"></DTDeath>
   <DTMorale enable="false" Win="15" Lost="15" Req="10" Ref="5"></DTMorale>
   <SZOption enable="false"></SZOption>
-  <SZShowCard enable="false"></SZShowCard>
+  <SZShowCard enable="true"></SZShowCard>
   <EventGeneral enable="false" EgStart="700" EgEnd="799"></EventGeneral>
   <SpecialKidney enable="false"></SpecialKidney>
   <AvailableYear enable="false"></AvailableYear>
