@@ -210,7 +210,7 @@
   <KeepBuilding enable="true"></KeepBuilding>
   <SuperBuilding enable="true"></SuperBuilding>
   <DisableDisaster enable="false"></DisableDisaster>
-  <CommandUnlimited enable="false"></CommandUnlimited>
+  <CommandUnlimited enable="true"></CommandUnlimited>
   <SkillWF enable="true">30</SkillWF>
   <SkillST enable="true">15</SkillST>
   <SkillNF enable="true">10</SkillNF>
