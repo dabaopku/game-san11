@@ -3,12 +3,12 @@
   <AbilityExpLimit enable="false">30</AbilityExpLimit>
   <AbilityTrainLimit enable="false">20</AbilityTrainLimit>
   <LevelName lv0name="Ｃ" lv1name="Ｂ" lv2name="Ａ" lv3name="Ｓ" lv4name="S1" lv5name="S2" lv6name="S3" lv7name="S4" lv8name="S5" lv9name="S6" lv10name="S7" lv11name="S8" lv12name="S9" lv13name="极" lv14name="神" lv15name="圣"></LevelName>
-  <LvLimitAndExp enable="false" lv0exp="150" lv1exp="200" lv2exp="250" lv3exp="250" lv4exp="250" lv5exp="250" lv6exp="250" lv7exp="250" lv8exp="250" lv9exp="250" lv10exp="250" lv11exp="250" lv12exp="250" lv13exp="250" lv14exp="250">3</LvLimitAndExp>
+  <LvLimitAndExp enable="true" lv0exp="150" lv1exp="200" lv2exp="250" lv3exp="250" lv4exp="250" lv5exp="250" lv6exp="250" lv7exp="250" lv8exp="250" lv9exp="250" lv10exp="250" lv11exp="250" lv12exp="250" lv13exp="250" lv14exp="250">15</LvLimitAndExp>
   <ABExpGain enable="false" AB0="0" AB1="0" AB2="0" AB3="0" AB4="0"></ABExpGain>
   <LvExpGain enable="false" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0"></LvExpGain>
-  <ABTrainLimit enable="false" Low="70" Medium="80" High="95"></ABTrainLimit>
-  <LvTrainLimit enable="false" A="2" B="1"></LvTrainLimit>
-  <LvTrainNoCond enable="false"></LvTrainNoCond>
+  <ABTrainLimit enable="true" Low="100" Medium="100" High="100"></ABTrainLimit>
+  <LvTrainLimit enable="true" A="15" B="15"></LvTrainLimit>
+  <LvTrainNoCond enable="true"></LvTrainNoCond>
   <TrainPeriod enable="false">3</TrainPeriod>
   <ContribGain enable="false">100</ContribGain>
   <ContribLimit enable="false">60000</ContribLimit>
@@ -77,11 +77,11 @@
   <SpecialInjBase enable="false" Base1="0" Base2="1" Base3="2"></SpecialInjBase>
   <SpecialCapNoHalf enable="false"></SpecialCapNoHalf>
   <SpecialCapJI enable="false">30</SpecialCapJI>
-  <SpecialCapBase enable="false">0</SpecialCapBase>
+  <SpecialCapBase enable="true">100</SpecialCapBase>
   <QLevel1Chaos enable="false"></QLevel1Chaos>
   <QLevel3Chaos enable="false" base="15" burst="100"></QLevel3Chaos>
   <QLevel2Chaos enable="false" base="15" burst="100"></QLevel2Chaos>
-  <ShotPrecision enable="false"></ShotPrecision>
+  <ShotPrecision enable="true"></ShotPrecision>
   <SameSpread enable="false"></SameSpread>
   <DistancePlus enable="true">5</DistancePlus>
   <StraHitsLL enable="false">1</StraHitsLL>
@@ -208,7 +208,7 @@
   <RapidResearch enable="false">2</RapidResearch>
   <Commission enable="true"></Commission>
   <KeepBuilding enable="true"></KeepBuilding>
-  <SuperBuilding enable="false"></SuperBuilding>
+  <SuperBuilding enable="true"></SuperBuilding>
   <DisableDisaster enable="false"></DisableDisaster>
   <CommandUnlimited enable="false"></CommandUnlimited>
   <SkillWF enable="true">30</SkillWF>
