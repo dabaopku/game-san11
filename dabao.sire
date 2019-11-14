@@ -149,16 +149,16 @@
   <BEatMul enable="false" ZH="83" ZI="67" CS="50"></BEatMul>
   <BSelfDefMul enable="false" ZH="80" ZI="70" CS="60"></BSelfDefMul>
   <OSelfDefMul enable="false" TL="90" SQ="70"></OSelfDefMul>
-  <TGRange enable="false">3</TGRange>
-  <TGEffect enable="false">20</TGEffect>
-  <JYRange enable="false">2</JYRange>
-  <JYEffect enable="false">10</JYEffect>
-  <SBRange enable="true">2</SBRange>
-  <SBProb enable="false">100</SBProb>
+  <TGRange enable="true">4</TGRange>
+  <TGEffect enable="true">100</TGEffect>
+  <JYRange enable="true">4</JYRange>
+  <JYEffect enable="true">50</JYEffect>
+  <SBRange enable="true">4</SBRange>
+  <SBProb enable="true">100</SBProb>
   <SBEffect enable="false">0</SBEffect>
-  <SBEffectMax enable="false">2</SBEffectMax>
+  <SBEffectMax enable="true">5</SBEffectMax>
   <CancelDistance enable="true"></CancelDistance>
-  <BuildSpeed enable="false">100</BuildSpeed>
+  <BuildSpeed enable="true">500</BuildSpeed>
   <BuildLimit enable="false" Fix="405" Rand="10"></BuildLimit>
   <GHBase enable="false" Prop="0" Range="1" Threshold1="90" Threshold2="96" Threshold3="100" Mul="50" Min="5" Max="50"></GHBase>
   <GHPlus1 enable="false" Prop="1" Threshold="90" Mul="50" Min="5" Max="50"></GHPlus1>
@@ -430,7 +430,7 @@
     <Skill149 prop0="武干" prop1="令未达到统率光环要求的主帅获得基础统率光环，否则光环范围加１格" prop2="补助" prop3="4" prop4="" prop5="" prop6="" prop7="" prop8="" prop9="" prop10="" prop11="" prop12="OOOOOO"></Skill149>
     
   </UseNewSkill>
-  <RealRandom enable="true"></RealRandom>
+  <RealRandom enable="false"></RealRandom>
   <ShowRate enable="true"></ShowRate>
   <PerfectRate enable="true"></PerfectRate>
   <DTCapture enable="false">80</DTCapture>
