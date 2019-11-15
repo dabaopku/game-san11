@@ -143,7 +143,7 @@
   <AreaAutoAttack enable="false"></AreaAutoAttack>
   <DestoryCity enable="false" mul="10" min="5" pass="60"></DestoryCity>
   <BADamage enable="false" JL="300" LN="500" TS="900"></BADamage>
-  <BARange enable="false" JL="2" LN="3" TS="3"></BARange>
+  <BARange enable="true" JL="4" LN="4" TS="4"></BARange>
   <BCDamage enable="false" ZH="400" ZI="600" CS="800"></BCDamage>
   <BDefMul enable="false" ZH="85" ZI="75" CS="65"></BDefMul>
   <BEatMul enable="false" ZH="83" ZI="67" CS="50"></BEatMul>
