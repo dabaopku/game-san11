@@ -2,7 +2,7 @@
 <Config><AbilityLimit enable="false">100</AbilityLimit>
   <AbilityExpLimit enable="false">30</AbilityExpLimit>
   <AbilityTrainLimit enable="false">20</AbilityTrainLimit>
-  <LevelName lv0name="Ｃ" lv1name="Ｂ" lv2name="Ａ" lv3name="Ｓ" lv4name="S1" lv5name="S2" lv6name="S3" lv7name="S4" lv8name="S5" lv9name="S6" lv10name="S7" lv11name="S8" lv12name="S9" lv13name="极" lv14name="神" lv15name="圣"></LevelName>
+  <LevelName lv0name="C" lv1name="B" lv2name="A" lv3name="S" lv4name="S1" lv5name="S2" lv6name="S3" lv7name="S4" lv8name="S5" lv9name="S6" lv10name="S7" lv11name="S8" lv12name="S9" lv13name="X" lv14name="Y" lv15name="Z"></LevelName>
   <LvLimitAndExp enable="true" lv0exp="150" lv1exp="200" lv2exp="250" lv3exp="250" lv4exp="250" lv5exp="250" lv6exp="250" lv7exp="250" lv8exp="250" lv9exp="250" lv10exp="250" lv11exp="250" lv12exp="250" lv13exp="250" lv14exp="250">15</LvLimitAndExp>
   <ABExpGain enable="false" AB0="0" AB1="0" AB2="0" AB3="0" AB4="0"></ABExpGain>
   <LvExpGain enable="false" Lv0="0" Lv1="0" Lv2="0" Lv3="0" Lv4="0" Lv5="0"></LvExpGain>
@@ -14,14 +14,14 @@
   <ContribLimit enable="false">60000</ContribLimit>
   <OfficialRank enable="false">4000</OfficialRank>
   <TreasureSkill enable="false"></TreasureSkill>
-  <TreasureNoConfiscate enable="false"></TreasureNoConfiscate>
+  <TreasureNoConfiscate enable="true"></TreasureNoConfiscate>
   <ArmyInnovation enable="false">3000</ArmyInnovation>
-  <AMLimit enable="false">10000</AMLimit>
-  <ARLimit enable="false">50000</ARLimit>
-  <TSLimit enable="false">60000</TSLimit>
-  <TEqLimit enable="false">100000</TEqLimit>
-  <TMLimit enable="false">100000</TMLimit>
-  <TRLimit enable="false">500000</TRLimit>
+  <AMLimit enable="true">100000</AMLimit>
+  <ARLimit enable="true">1000000</ARLimit>
+  <TSLimit enable="true">60000</TSLimit>
+  <TEqLimit enable="true">500000</TEqLimit>
+  <TMLimit enable="true">1000000</TMLimit>
+  <TRLimit enable="true">10000000</TRLimit>
   <ArmyAtk use="0" PoWL="100" PoTS="0" Threshold="5000"></ArmyAtk>
   <ArmyDef use="0" PoWL="0" PoTS="100" Threshold="5000"></ArmyDef>
   <MoralePlusA enable="true" Threshold="50">50</MoralePlusA>
@@ -72,7 +72,7 @@
   <SpecialKillBurst enable="false">2</SpecialKillBurst>
   <SpecialKillBase enable="false" Base1="0" Base2="2"></SpecialKillBase>
   <SpecialPKWithoutCond enable="false"></SpecialPKWithoutCond>
-  <SpecialPKBase enable="false">0</SpecialPKBase>
+  <SpecialPKBase enable="true">100</SpecialPKBase>
   <SpecialInjBurst enable="false">1</SpecialInjBurst>
   <SpecialInjBase enable="false" Base1="0" Base2="1" Base3="2"></SpecialInjBase>
   <SpecialCapNoHalf enable="false"></SpecialCapNoHalf>
@@ -202,7 +202,7 @@
   <AmicableCost enable="false">1000</AmicableCost>
   <AdviseNoLimit enable="true"></AdviseNoLimit>
   <SPGain enable="true">200</SPGain>
-  <SPLimit enable="false">10000</SPLimit>
+  <SPLimit enable="true">60000</SPLimit>
   <SPAutoGain enable="false" HDSkill="2" YXSkill="2" TQSkill="5"></SPAutoGain>
   <ResearchDuration enable="false">100</ResearchDuration>
   <RapidResearch enable="false">2</RapidResearch>
